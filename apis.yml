@@ -1,0 +1,81 @@
+aid: essence-vc
+name: Essence VC
+x-type: venture-capital
+x-category: Micro VC
+description: 'Essence VC is an early-stage venture firm founded by solo GP Timothy
+  Chen (former SVP Engineering at Cosmos, cofounder of Hyperpilot, early at Mesosphere
+  and CloudFoundry, Apache member) that invests exclusively in infrastructure companies,
+  from inception and pre-seed onward. Started seven years before its 2025 Fund IV
+  with a $1 million first fund; Fund III was $27 million anchored by Cendana Capital.
+  The thesis has broadened from developer tools to horizontal and vertical infrastructure:
+  AI, data, developer, security, fintech and creative infra. Portfolio includes Modal,
+  Ollama, Warp, Tabular, ComfyUI, Cline, LanceDB, MotherDuck and Restate. Fund IV
+  was deliberately kept modest in size to preserve hands-on early-stage work. Hosts
+  the Open Source Startup Podcast and The Infra Pod.'
+image: https://images.squarespace-cdn.com/content/v1/5e2a8b2b9ac66d7db4e115ba/1589846207809-TGZ914I7LOBAEQAQUE63/favicon.ico?format=100w
+tags:
+- Venture Capital
+- Micro VC
+- Pre-Seed
+- Seed
+- Infrastructure
+- Developer Tools
+- AI Infrastructure
+- Open Source
+- United States
+created: '2026-10-18'
+modified: '2026-10-18'
+url: https://raw.githubusercontent.com/api-evangelist/essence-vc/refs/heads/main/apis.yml
+specificationVersion: '0.20'
+apis: []
+common:
+- type: Website
+  url: https://essencevc.fund/
+- type: Portfolio
+  url: https://essencevc.fund/
+- type: Portfolio
+  url: portfolio/essence-vc-portfolio.yml
+- type: Team
+  url: team/essence-vc-team.yml
+- type: Blog
+  url: https://essencevc.fund/blog
+- type: Podcast
+  url: https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ
+  name: Open Source Startup Podcast
+- type: Podcast
+  url: https://open.spotify.com/show/7qZ7hDmHEQdAOLaJvi7S9o
+  name: The Infra Pod
+- type: Jobs
+  url: https://careers.essencevc.fund/companies
+- type: LinkedIn
+  url: https://www.linkedin.com/company/essence-venture-capital
+- type: Twitter
+  url: https://x.com/essenceventure
+- type: Contact
+  url: mailto:tim@essencevc.fund
+- type: Features
+  name: Fund Facts
+  data:
+  - name: Stage
+    value: Inception / pre-seed / seed
+  - name: Sectors
+    value: 'Infrastructure: AI, data, developer, security, fintech, creative, vertical'
+  - name: First fund
+    value: $1 million
+  - name: Fund III
+    value: $27 million (Jun 2023, anchor LP Cendana Capital)
+  - name: Current fund
+    value: Fund IV (announced Sep 2025, size not published)
+  - name: Structure
+    value: Solo GP (Timothy Chen)
+  sources:
+  - https://essencevc.fund/blog
+  - https://techcrunch.com/2025/09/23/tim-chen-has-quietly-become-of-one-the-most-sought-after-solo-investors/
+  updated: '2026-10-18'
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apisjson.org
+- FN: Essence VC
+  email: tim@essencevc.fund

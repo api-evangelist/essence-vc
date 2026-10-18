@@ -1,0 +1,53 @@
+generated: '2026-10-18'
+method: derived
+source_vc: essence-vc
+leads:
+- name: Comfy Org
+  url: https://comfy.org
+  suggested_slug: comfy-org
+  sector: Creative Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Clarify
+  url: https://clarify.ai
+  suggested_slug: clarify
+  sector: Customer Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Keycard
+  url: https://keycard.ai
+  suggested_slug: keycard
+  sector: Security Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Flox
+  url: https://flox.dev
+  suggested_slug: flox
+  sector: Developer Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Magic Patterns
+  url: https://magicpatterns.com
+  suggested_slug: magic-patterns
+  sector: Design Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Flux
+  url: https://flux.ai
+  suggested_slug: flux
+  sector: Hardware Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false
+- name: Trajectory
+  url: https://trajectory.ai
+  suggested_slug: trajectory
+  sector: AI Infra
+  source_vc: essence-vc
+  source: https://essencevc.fund/
+  stub_created: false

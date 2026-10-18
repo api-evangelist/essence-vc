@@ -1,0 +1,280 @@
+generated: '2026-10-18'
+method: searched
+source: https://essencevc.fund/
+type: Portfolio
+firm: Essence VC
+summary:
+  portfolio_total: 25
+  in_network: 18
+  api_providers: 10
+  missing: 7
+  stubs_created: 0
+companies:
+- name: Modal
+  url: https://modal.com
+  description: AI Infra company in the Essence VC portfolio.
+  sector: AI Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: modal-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ollama
+  url: https://ollama.com
+  description: AI Infra company in the Essence VC portfolio.
+  sector: AI Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: ollama
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Warp
+  url: https://warp.dev
+  description: Developer Infra company in the Essence VC portfolio.
+  sector: Developer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: warp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Jasper
+  url: https://jasper.ai
+  description: Marketing Infra company in the Essence VC portfolio.
+  sector: Marketing Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: jasper
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tabular
+  url: https://tabular.io
+  description: Data Infra company in the Essence VC portfolio.
+  sector: Data Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: tabular
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Torq
+  url: https://torq.io
+  description: Security Infra company in the Essence VC portfolio.
+  sector: Security Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: torq
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Comfy Org
+  url: https://comfy.org
+  description: Creative Infra company in the Essence VC portfolio.
+  sector: Creative Infra
+  stage: unknown
+  status: active
+  source: https://essencevc.fund/
+  suggested_slug: comfy-org
+  in_network: false
+  is_api_provider: false
+- name: Cline
+  url: https://cline.bot
+  description: Developer Infra company in the Essence VC portfolio.
+  sector: Developer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: cline
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LanceDB
+  url: https://lancedb.com
+  description: Data Infra company in the Essence VC portfolio.
+  sector: Data Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: lancedb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unstructured
+  url: https://unstructured.io
+  description: Data Infra company in the Essence VC portfolio.
+  sector: Data Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: unstructured
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CodeRabbit
+  url: https://coderabbit.ai
+  description: Developer Infra company in the Essence VC portfolio.
+  sector: Developer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: coderabbit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sardine
+  url: https://sardine.ai
+  description: Fintech Infra company in the Essence VC portfolio.
+  sector: Fintech Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: sardine-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: MotherDuck
+  url: https://motherduck.com
+  description: Data Infra company in the Essence VC portfolio.
+  sector: Data Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: motherduck
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Clarify
+  url: https://clarify.ai
+  description: Customer Infra company in the Essence VC portfolio.
+  sector: Customer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: clarify
+  in_network: false
+  is_api_provider: false
+- name: Keycard
+  url: https://keycard.ai
+  description: Security Infra company in the Essence VC portfolio.
+  sector: Security Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: keycard
+  in_network: false
+  is_api_provider: false
+- name: Flox
+  url: https://flox.dev
+  description: Developer Infra company in the Essence VC portfolio.
+  sector: Developer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: flox
+  in_network: false
+  is_api_provider: false
+- name: Magic Patterns
+  url: https://magicpatterns.com
+  description: Design Infra company in the Essence VC portfolio.
+  sector: Design Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: magic-patterns
+  in_network: false
+  is_api_provider: false
+- name: Flux
+  url: https://flux.ai
+  description: Hardware Infra company in the Essence VC portfolio.
+  sector: Hardware Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: flux
+  in_network: false
+  is_api_provider: false
+- name: Legion
+  url: https://www.legionintel.com/
+  description: Defense Infra company in the Essence VC portfolio.
+  sector: Defense Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: yurts
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Restate
+  url: https://www.restate.dev/
+  description: Developer Infra company in the Essence VC portfolio.
+  sector: Developer Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: restate
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TensorWave
+  url: https://tensorwave.com
+  description: AI Infra company in the Essence VC portfolio.
+  sector: AI Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: tensorwave
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Trajectory
+  url: https://trajectory.ai
+  description: AI Infra company in the Essence VC portfolio.
+  sector: AI Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  suggested_slug: trajectory
+  in_network: false
+  is_api_provider: false
+- name: Saris
+  url: https://saris.ai
+  description: Vertical Infra company in the Essence VC portfolio.
+  sector: Vertical Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: saris
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Fearn
+  url: https://fearn.ai
+  description: Legal Infra company in the Essence VC portfolio.
+  sector: Legal Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: fearn
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Phonic
+  url: https://phonic.ai
+  description: AI Infra company in the Essence VC portfolio.
+  sector: AI Infra
+  stage: unknown
+  status: unknown
+  source: https://essencevc.fund/
+  slug: phonic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
